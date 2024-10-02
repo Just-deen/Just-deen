@@ -15,10 +15,7 @@ I'm Passionate about building innovative digital solutions, I'm a budding full-s
 Critical thinking 💡 drives my approach to tackling complex problems, ensuring elegant and efficient solutions.
 
 
-
-
-👯 I’m looking to collaborate on front-end projects
-Let's connect and build something amazing together! ✨
+👯 I’m looking to collaborate on front-end projects. Let's connect and build something amazing together! ✨
 
 ## 📫 How to reach me
 • Email: sheriffaliuyamah82@gmail.com 
