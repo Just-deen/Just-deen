@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi 👋, I'm Sheriffdeen.
 
-<!--
-**Just-deen/Just-deen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Passionate about building innovative digital solutions, I'm a budding full-stack web developer 🌐 with a keen interest in problem-solving 🧩.
 
-Here are some ideas to get you started:
+## Tech Stack:
+✍️ HTML | 💅 CSS | 📃 JavaScript | 🐍 Python | 💼 Bootstrap | 🎨 Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Currently Learning:
+📚 Full-Stack Web Development
+
+
+🔭 I’m currently working on JavaScript mini projects
+
+## My Approach:
+Critical thinking 💡 drives my approach to tackling complex problems, ensuring elegant and efficient solutions.
+
+
+
+
+👯 I’m looking to collaborate on front-end projects
+Let's connect and build something amazing together! ✨
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
