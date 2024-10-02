@@ -20,5 +20,8 @@ Critical thinking 💡 drives my approach to tackling complex problems, ensuring
 👯 I’m looking to collaborate on front-end projects
 Let's connect and build something amazing together! ✨
 
-- 📫 How to reach me: ...
+## 📫 How to reach me
+• Email: sheriffaliuyamah82@gmail.com 
+
+• WhatsApp: +2348107739669
 
