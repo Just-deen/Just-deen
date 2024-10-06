@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Sheriffdeen.
 
-I'm Passionate about building innovative digital solutions, I'm a budding full-stack web developer 🌐 with a keen interest in problem-solving 🧩.
+I'm Passionate about building innovative digital solutions and I'm a budding full-stack web developer 🌐 with a keen interest in problem-solving 🧩.
 <br>
 <br>
 
